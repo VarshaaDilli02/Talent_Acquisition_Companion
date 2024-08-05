@@ -17,10 +17,14 @@ The main aim of this project is to design and implement a multi-faceted project 
 
 ## Tools and Technologies Used
 • Flask
+
 • Streamlit
+
 • NLP
+
 • MySQL
 
 ## Languages Used
 • Python
+
 • SQL
